@@ -2,10 +2,13 @@
 //  SceneDelegate.swift
 //  ClearCreek
 //
-//  Created by Student on 9/29/22.
+//  Created by Student on 02/09/2022.
 //
 
 import UIKit
+import FirebaseDatabase
+import FirebaseCore
+import IQKeyboardManagerSwift
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -13,9 +16,13 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
-        // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
-        // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+        
+        FirebaseApp.configure()
+        Database.database().isPersistenceEnabled = true
+        // IQKeyboard
+        IQKeyboardManager.shared.enable = true
+        IQKeyboardManager.shared.enableAutoToolbar = true
+        
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 
