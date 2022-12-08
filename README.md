@@ -38,7 +38,7 @@
 <img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image1.jpeg?raw=true" width="80" height="80" />
 		 
 - After downloading the project we need to open the terminal and navigate to the project path as shown below 
-<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image2.jpeg?raw=true" width="80" height="80" />
+<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/blob/main/InstallationImages/Image1.jpeg?raw=true" width="80" height="80" />
      
 - Open the project in visual studio code
 
