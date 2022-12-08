@@ -3,17 +3,17 @@
 ## TEAM CODEBREAKERS
 #### Team Members
 ---
-###### Avinash Chundu (Leader)
-###### Teja Alaparthi  
-###### Varun Kumar Bantu  
-###### Ajay Makkena
-###### Anitha Mukkapati
-###### Prasanna Nandhigama
-###### Hema Sesha Sai Pamulapati
-###### Narendra Unnava
-###### Srilatha Vunnam
-###### Sai Kumar Yarramasu
-###### Akhil Babu Yarlagadda
+##### Avinash Chundu (Leader)
+##### Teja Alaparthi  
+##### Varun Kumar Bantu  
+##### Ajay Makkena
+##### Anitha Mukkapati
+##### Prasanna Nandhigama
+##### Hema Sesha Sai Pamulapati
+##### Narendra Unnava
+##### Srilatha Vunnam
+##### Sai Kumar Yarramasu
+##### Akhil Babu Yarlagadda
 
 ---
 
@@ -35,12 +35,10 @@
 4.	PODS
 
 - First, we need to download the project folder from the Git Repository using the below link: https://github.com/NWMSU-CodeBreakers/ClearCreekCatering
-
-|<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image1.jpeg?raw=true" width="80" height="80" />
+<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image1.jpeg?raw=true" width="80" height="80" />
 		 
 - After downloading the project we need to open the terminal and navigate to the project path as shown below 
-		 
-|<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image2.jpeg?raw=true" width="80" height="80" />
+<img src="https://github.com/NWMSU-CodeBreakers/ClearCreekCatering/tree/main/InstallationImages/Image2.jpeg?raw=true" width="80" height="80" />
      
 - Open the project in visual studio code
 
